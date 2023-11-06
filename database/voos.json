@@ -1,0 +1,44 @@
+{
+ "voos": [
+    {
+      "origem": "Nova Iorque",
+      "destino": "Los Angeles",
+       "horario": "12:05",
+      "companhia_aerea": "Delta Airlines",
+      "preco": 250
+    },
+    {
+      "origem": "Chicago",
+      "destino": "Miami",
+      "horario": "11:30",
+      "companhia_aerea": "American Airlines",
+      "preco": 200,
+      "acento_Desponivel": "1, 2, 30, 20"
+    },
+    {
+      "origem": "San Francisco",
+      "destino": "Las Vegas",
+      "horario": "10:20",
+      "companhia_aerea": "Southwest Airlines",
+      "preco": 150,
+      "acento_Desponivel": "13, 24, 30, 20"
+    },
+    {
+      "origem": "Paris",
+      "destino": "Londres",
+      "horario": "20:15",
+      "companhia_aerea": "Air France",
+      "preco": 300,
+      "acento_Desponivel": "50, 32, 35, 20"
+    },
+    {
+      "origem": "Tóquio",
+      "destino": "Pequim",
+      "horario": "16:35",
+      "companhia_aerea": "Japan Airlines",
+      "preco": 400,
+      "acento_Desponivel": "20, 2, 6, 23"
+    }
+  ]
+  
+}

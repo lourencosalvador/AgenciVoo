@@ -1,0 +1,25 @@
+{
+  "passageiro": [
+    {
+      "id": 1,
+      "nome": "Lourenço",
+      "numero": "930044322",
+      "idade": 16,
+      "email": "lorryscode@gmail.com"
+    },
+    {
+      "id": 2,
+      "nome": "Carlos",
+      "numero": "9495044322",
+      "idade": 26,
+      "email": "lorryscode@gmail.com"
+    },
+    {
+      "id": 3,
+      "nome": "lore",
+      "numero": "99",
+      "idade": "33",
+      "email": "ldod"
+    }
+  ]
+}
